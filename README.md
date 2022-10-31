@@ -1,4 +1,4 @@
-# Drug-Discovery-using-Machine-Learning (For Breast Cancer and Alzheimer Disease)
+# Drug Discovery using Machine Learning (For Breast Cancer and Alzheimer Disease)
 
 This is a real-life Data Science and Machine Learning Project and in this Project we have built machine learning models of **Aromatase Inhibitors (Enzyme responsible for Breast Cancer)** using **ChEMBL Bioactivity Data**.
 
